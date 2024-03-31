@@ -1,5 +1,9 @@
+import HomePage from "./pages/client/Homepage/HomePage";
+
 const App = () => {
-    return <div>Hello lz Quang</div>;
+    return <>
+        <HomePage />
+    </>;
 };
 
 export default App;
